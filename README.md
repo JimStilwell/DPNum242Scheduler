@@ -1,11 +1,14 @@
 # DPNum242Scheduler
 Optimized scheduler with options.
 
-/*
 	Author: Jim Stilwell
+	
 	Date: 01/06/2016
+	
 	IDE: Eclipse Kepler SR2
+	
 	Language: C++ (MinGW / http://mingw.org/)
+	
 
 	Note* These programs are designed to show case my programming style and capabilities so I may occasionally
 	perform operations that wouldn't make sense in the real world (like jumbling a sorted list just so I can sort it again right afterward).
@@ -52,4 +55,4 @@ Optimized scheduler with options.
 	OO
 	URL: https://www.reddit.com/r/dailyprogrammer/comments/3u6o56/20151118_challenge_242_intermediate_vhs_recording/
 
- */
+
